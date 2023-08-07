@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is James Shea!
-I have a M.S. in Data Analytics.
+I have an M.S. in Data Analytics.
 
 I focus on fun R projects.
 
