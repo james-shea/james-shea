@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+## My name is James Shea!
+I have a M.S. in Data Analytics.
 
+I focus on fun R projects.
+
+I also know SQL, SAS, Python, Excel!
+
+Business Analyst software including PowerBI, Adobe Analytics, Google Analytics, and more!
 <!--
 **james-shea/james-shea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
